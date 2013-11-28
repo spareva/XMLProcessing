@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue name="catalogue" xmlns:catalogue="urn:somecatalogue.com:catalogue">
+  <album>
+    <name>Some Album</name>
+    <artist>Some Artist</artist>
+    <year>1999</year>
+    <producer>Some Producer</producer>
+    <price>20.00$</price>
+    <songs>
+      <song>
+        <title>SongTitle1</title>
+        <duration>3:49</duration>
+      </song>
+      <song>
+        <title>SongTitle2</title>
+        <duration>3:39</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Some Album2</name>
+    <artist>Some Artist2</artist>
+    <year>1989</year>
+    <producer>Some Producer2</producer>
+    <price>50.00$</price>
+    <songs>
+      <song>
+        <title>SongTitle1</title>
+        <duration>3:49</duration>
+      </song>
+      <song>
+        <title>SongTitle2</title>
+        <duration>3:39</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
